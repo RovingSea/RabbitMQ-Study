@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springboot-rabbitmq
+  rabbitmq:
+    host: 180.76.136.123
+    port: 13399
+    username: wu
+    password: 123
+    virtual-host: /wu_rabbitmq_study
